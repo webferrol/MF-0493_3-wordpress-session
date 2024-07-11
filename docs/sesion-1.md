@@ -44,19 +44,30 @@
      - **Temas**: Plantillas para la apariencia y el diseño.
      - **Plugins**: Extensiones que añaden funcionalidad.
      - **Widgets**: Componentes pequeños y reutilizables.
+### Sesión Práctica de WordPress
 
-5. **Requisitos del Proyecto:**
-   - Explicación de los requisitos específicos del proyecto, incluyendo las fases y tecnologías (CA1.1 y CA1.2).
+#### Objetivo
+Al finalizar esta sesión, deberás ser capaz de instalar WordPress, configurar los ajustes básicos, elegir y personalizar un tema, y añadir contenido básico a tu sitio web.
 
-### Actividades:
+#### Materiales Necesarios
+- Acceso a Internet
+- Un servidor web con PHP y MySQL (puedes usar servicios como Local by Flywheel, XAMPP, o un hosting web)
+- Un navegador web
 
-1. **Presentación del Proyecto:**
-   - Proporcionar un documento o presentación con una descripción detallada del proyecto.
-   - Responder preguntas y aclarar dudas sobre el proyecto.
+#### Instalación de WordPress
 
-2. **Formación de Equipos y Asignación de Roles:**
-   - Dividir a los alumnos en equipos de trabajo.
-   - Asignar roles dentro de cada equipo (por ejemplo, líder del equipo, desarrollador, encargado de pruebas, documentador).
+1. **Descargar WordPress**
+   - Visita [wordpress.org](https://wordpress.org) y descarga la última versión de WordPress.
 
-3. **Revisión de Materiales de Referencia:**
-   - Proporcionar a los alumnos una lista de recursos y lecturas recomendadas sobre WordPress y las tecnologías involucradas.
+2. **Preparar el Entorno**
+   - Si usas un servidor local como XAMPP o Local by Flywheel, asegúrate de tener el servidor web y la base de datos MySQL activos.
+   - Si usas un hosting, accede al cPanel o al panel de control de tu hosting.
+
+3. **Crear una Base de Datos**
+   - En el servidor local, abre phpMyAdmin y crea una nueva base de datos.
+   - En el hosting, utiliza la herramienta de gestión de bases de datos para crear una nueva base de datos.
+
+4. **Subir y Configurar WordPress**
+   - Extrae el archivo ZIP de WordPress descargado y sube los archivos al servidor (directorio `htdocs` en XAMPP o la carpeta adecuada en el hosting).
+   - Navega a `http://localhost/nombredetuproyecto` o la URL correspondiente en tu hosting.
+   - Sigue las instrucciones del instalador: selecciona el idioma, ingresa los detalles de la base de datos, crea una cuenta de administrador y configura el sitio.
