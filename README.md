@@ -46,7 +46,7 @@
 # Plan de Trabajo
 
 1. **Sesión 1**: [Introducción y planificación del proyecto. Revisión de requisitos y tecnologías.](./docs/sesion-1.md)
-2. **Sesión 2**: Instalación y configuración de WordPress en entornos locales y servidores de prueba.
+2. **Sesión 2**: [Instalación y configuración de WordPress en entornos locales y servidores de prueba.](./docs/sesion-2.md)
 3. **Sesión 3**: Desarrollo del portal de noticias: configuración de temas, plugins y estructura de contenido.
 4. **Sesión 4**: Documentación del proceso de instalación y configuración. Introducción al control de versiones con Git.
 5. **Sesión 5**: Pruebas de funcionalidad, rendimiento y seguridad. Optimización del portal.
