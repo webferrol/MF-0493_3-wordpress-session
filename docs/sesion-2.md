@@ -39,6 +39,11 @@
 
 3. **Añadir Menús de Navegación**
    - Ve a **Apariencia > Menús**.
+
+    ![WarningGIF](https://github.com/user-attachments/assets/46bd12fe-7b98-438a-b3bb-4dc92a853487)
+
+   Según el tema instalado puede que los menús de navegación se encuentre en otro lugar.
+   
    - Crea un nuevo menú, añade las páginas y enlaces necesarios, y asigna el menú a una ubicación en tu tema.
 
 ## Paso 4: Instalar Plugins
