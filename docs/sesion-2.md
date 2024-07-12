@@ -17,7 +17,8 @@
    - Explora los temas disponibles, instala y activa el que más te guste.
 
 2. **Personalizar el Tema**
-   - Ve a **Apariencia > Personalizar** para acceder al personalizador de temas.
+   - Ve a **Apariencia > Personalizar** para acceder al personalizador de temas. (![WarningGIF](https://github.com/user-attachments/assets/46bd12fe-7b98-438a-b3bb-4dc92a853487) 
+
    - Cambia el logo, los colores, los menús y otros elementos de diseño según tus preferencias.
 
 ## Paso 3: Añadir Contenido
